@@ -9,6 +9,10 @@ def initialize(name)
   @@all << self
 end 
 
+def clear_all
+array.clear 
+end 
+
 
 
 end
